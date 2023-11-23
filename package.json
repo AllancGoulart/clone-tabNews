@@ -1,5 +1,5 @@
 {
-  "name": "clone-tabnews",
+  "name": "c",
   "version": "1.0.0",
   "description": "Projeto criado para cair de cabeça nos ensinamentos do filipe",
   "main": "index.js",
@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0"
+  }
 }
